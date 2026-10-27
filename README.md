@@ -14,20 +14,24 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0785-is-graph-bipartite) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/irfankhan-nitr/leetcode.org/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0785-is-graph-bipartite) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/irfankhan-nitr/leetcode.org/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Union-Find
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0785-is-graph-bipartite) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/irfankhan-nitr/leetcode.org/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0785-is-graph-bipartite) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/irfankhan-nitr/leetcode.org/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/irfankhan-nitr/leetcode.org/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/irfankhan-nitr/leetcode.org/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Coloring
