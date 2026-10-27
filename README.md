@@ -12,10 +12,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
@@ -24,6 +26,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0785-is-graph-bipartite) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/irfankhan-nitr/leetcode.org/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/irfankhan-nitr/leetcode.org/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -47,11 +50,13 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/irfankhan-nitr/leetcode.org/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/irfankhan-nitr/leetcode.org/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/irfankhan-nitr/leetcode.org/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/irfankhan-nitr/leetcode.org/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Bellman–Ford Algorithm
@@ -62,4 +67,8 @@
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/irfankhan-nitr/leetcode.org/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
