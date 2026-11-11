@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0066-plus-one) |
+| [0171-excel-sheet-column-number](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0171-excel-sheet-column-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0171-excel-sheet-column-number) |
 ## String Matching
 |  |
 | ------- |
