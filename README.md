@@ -14,6 +14,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0110-balanced-binary-tree) |
 | [0743-network-delay-time](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0827-making-a-large-island) |
@@ -132,4 +133,12 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0876-middle-of-the-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
