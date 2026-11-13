@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0268-missing-number) |
 | [0827-making-a-large-island](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0827-making-a-large-island) |
 ## Math
 |  |
@@ -12,6 +13,7 @@
 | [0066-plus-one](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0268-missing-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0268-missing-number) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Biconnected Component
 |  |
@@ -142,4 +145,16 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0110-balanced-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
