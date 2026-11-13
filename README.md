@@ -11,6 +11,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0171-excel-sheet-column-number) |
+| [0263-ugly-number](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0263-ugly-number) |
 ## Depth-First Search
 |  |
 | ------- |
