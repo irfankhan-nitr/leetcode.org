@@ -14,6 +14,7 @@
 | [0171-excel-sheet-column-number](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0326-power-of-three) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -157,4 +158,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
