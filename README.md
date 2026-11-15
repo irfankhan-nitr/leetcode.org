@@ -6,6 +6,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0349-intersection-of-two-arrays) |
 | [0827-making-a-large-island](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0827-making-a-large-island) |
 ## Math
 |  |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0349-intersection-of-two-arrays) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Biconnected Component
 |  |
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -150,6 +153,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -158,6 +162,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/irfankhan-nitr/leetcode.org/tree/master/0349-intersection-of-two-arrays) |
 ## Recursion
 |  |
 | ------- |
